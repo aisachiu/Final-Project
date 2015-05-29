@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<p>Location:</p>
+<ul>
+  <li>
+    <p><strong>Absolute</strong>: A location can be absolute (specific) as in coordinates of a map using longitude and latitude</p>
+  </li>
+  <li>
+    <p><strong>Relative</strong>: A location can be relative - examples: next door, nearby, a short drive, down the road a ways. Or, it can be in the same general location as another location - example: next to the post office.</p>
+  </li>
+</ul>
+<p><img src="map-pin-location.jpg" width="821" height="575" /></p>
+</body>
+</html>
